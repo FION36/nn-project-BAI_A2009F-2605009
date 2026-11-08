@@ -1,0 +1,13 @@
+FROM python:3.14-slim
+
+WORKDIR /app
+
+COPY requirements-test.txt .
+
+RUN pip install --no-cache-dir torch==2.15.0 torchvision==0.29.2 --index-url https://download.pytorch.org/whl/cpu
+
+RUN pip install --no-cache-dir -r requirements-test.txt
+
+COPY src/ ./src/
+
+CMD ["python", "src/evaluate_test.py"]

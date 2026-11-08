@@ -1,0 +1,2 @@
+Experiment,Learning Rate,Dropout,Epochs,Best Epoch,Best Validation Loss,Best Validation Accuracy
+baseline,0.001,0.3,10,10,0.7575989476734671,0.7209985315712188

@@ -1,0 +1,2 @@
+Experiment,Learning Rate,Dropout,Epochs,Best Epoch,Best Validation Loss,Best Validation Accuracy
+docker_baseline,0.001,0.3,10,10,0.7744577804501012,0.7393538913362702

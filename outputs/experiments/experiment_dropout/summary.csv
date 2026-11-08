@@ -1,0 +1,2 @@
+Experiment,Learning Rate,Dropout,Epochs,Best Epoch,Best Validation Loss,Best Validation Accuracy
+experiment_dropout,0.001,0.5,10,10,0.826936603992871,0.7224669603524229

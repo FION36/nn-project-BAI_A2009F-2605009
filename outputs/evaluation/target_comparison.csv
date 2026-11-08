@@ -1,0 +1,5 @@
+Metric,Task 1 Target,Test Result,Target Achieved
+Accuracy,0.8,0.724669603524229,False
+Macro Precision,0.75,0.6218944184992118,False
+Macro Recall,0.75,0.7056981950010459,False
+Macro F1,0.75,0.6274983564790607,False

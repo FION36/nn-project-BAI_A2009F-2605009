@@ -1,0 +1,11 @@
+Example,Image Path,Actual Class,Predicted Class,Saved Image
+1,Normal/normal1748.jpg,Normal,Earthquake,outputs/evaluation/wrong_predictions/wrong_1.jpg
+2,Flood/flood353.jpg,Flood,Smoke,outputs/evaluation/wrong_predictions/wrong_2.jpg
+3,Normal/normal385.jpg,Normal,Landslide,outputs/evaluation/wrong_predictions/wrong_3.jpg
+4,Flood/flood26.jpg,Flood,Landslide,outputs/evaluation/wrong_predictions/wrong_4.jpg
+5,Normal/normal1436.jpg,Normal,Fire,outputs/evaluation/wrong_predictions/wrong_5.jpg
+6,Flood/flood602.jpg,Flood,Landslide,outputs/evaluation/wrong_predictions/wrong_6.jpg
+7,Flood/flood2565.jpg,Flood,Earthquake,outputs/evaluation/wrong_predictions/wrong_7.jpg
+8,Normal/normal2197.jpg,Normal,Fire,outputs/evaluation/wrong_predictions/wrong_8.jpg
+9,Normal/normal1653.jpg,Normal,Smoke,outputs/evaluation/wrong_predictions/wrong_9.jpg
+10,Fire/fire460.jpg,Fire,Earthquake,outputs/evaluation/wrong_predictions/wrong_10.jpg

@@ -1,0 +1,8 @@
+{
+    "Fire": 0,
+    "Flood": 1,
+    "Landslide": 2,
+    "Earthquake": 3,
+    "Smoke": 4,
+    "Normal": 5
+}

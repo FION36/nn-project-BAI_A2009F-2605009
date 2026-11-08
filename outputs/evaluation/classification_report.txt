@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+        Fire       0.90      0.81      0.85       380
+       Flood       0.81      0.84      0.83       406
+   Landslide       0.34      0.74      0.46        47
+  Earthquake       0.55      0.71      0.62       150
+       Smoke       0.25      0.62      0.36        45
+      Normal       0.88      0.51      0.64       334
+
+    accuracy                           0.72      1362
+   macro avg       0.62      0.71      0.63      1362
+weighted avg       0.79      0.72      0.74      1362

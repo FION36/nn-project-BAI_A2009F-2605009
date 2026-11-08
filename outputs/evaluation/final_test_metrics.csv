@@ -1,0 +1,2 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,Majority Class,Majority Baseline Accuracy
+Baseline,0.724669603524229,0.6218944184992118,0.7056981950010459,0.6274983564790607,0.7375358608166801,Flood,0.29809104258443464
